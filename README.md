@@ -13,7 +13,7 @@ A simple responsive Product slider with autoplay scroll.
 * Clone Repo
 
 ````bash
-  git clone ''
+  git clone https://github.com/stevehoober254/product-slider-react.git
   ````
 
 * Run
