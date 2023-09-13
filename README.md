@@ -2,6 +2,9 @@
 
 A simple responsive Product slider with autoplay scroll.
 
+
+[Screenshot]('src/assets/Screenshot 2023-09-13 at 11.25.30.png')
+
 ## Built with
 
 * Create React App
